@@ -1,0 +1,35 @@
+// 1. Ways To Print In JavaScript
+alert("Hello World")
+console.log("Hello World")
+document.write("This Docuemnt Write In JavaScript")
+
+// 2 .Console API In JavaScript
+console.assert(5 < 10)
+console.warn("Hello Tis Is Warning")
+console.error("Error Occured By JavaScript!")
+
+//3. JavaScript Varialbes
+var number1 = 50;
+var number2 = 50;
+
+// 4. Data Types In JavaScript
+var str1 = 90
+var str2  = 80
+//Objects
+var marks = {
+    ravi: 90,
+    Tanmay: 98,
+    Rohan: 52,
+}
+//Booleans
+var a = true;
+var b = false;
+// console.log(a,b)
+
+//Undefined In JavaScript
+var und = undefined;
+console.log(und)
+
+//Null In JavaScript
+var n = null;
+console.log(n)
